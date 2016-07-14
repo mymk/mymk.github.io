@@ -1,32 +1,26 @@
-baseurl = "https://mymk.github.io"
-LanguageCode= "fr-FR"
-theme = "casper"
-Title= "Awesome content for web dev"
-paginate = 5
-DisqusShortname = "yo_0"
 Copyright = "All rights reserved - 2015"
+DisqusShortname = "yo_0"
+LanguageCode = "fr-FR"
+Title = "Awesome content for web dev"
+baseurl = "https://mymk.github.io"
 canonifyurls = true
-
-[params]
-  description = "this is my description"
-  cover = "images/cover_brain.jpg"
-  author = "Yoan Marchal"
-  authorlocation = "Limoges, France"
-  authorwebsite = "http://yoanmarchal.com"
-  bio= "French freelance"
-  logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/"
-  githubName = "mymk"
-  twitterName = "mymk"
-  # facebookName = ""
-  # linkedinName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
-
+paginate = 5
+theme = "casper"
 [[menu.main]]
-  name = "Blog"
-  weight = -120
-  identifier = "blog"
-  url = "/"
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+[params]
+RSSLink = "http://feeds.feedburner.com/"
+author = "Yoan Marchal"
+authorlocation = "Limoges, France"
+authorwebsite = "http://yoanmarchal.com"
+bio = "French freelance"
+cover = "images/cover_brain.jpg"
+description = "this is my description"
+githubName = "mymk"
+googleAnalyticsUserID = ""
+hideHUGOSupport = false
+logo = "images/logo.png"
+twitterName = "mymk"
