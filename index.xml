@@ -23,16 +23,6 @@
     </item>
     
     <item>
-      <title>test post</title>
-      <link>https://mymk.github.io/post/test-post/</link>
-      <pubDate>Thu, 14 Jul 2016 23:33:00 +0000</pubDate>
-      
-      <guid>https://mymk.github.io/post/test-post/</guid>
-      <description>&lt;p&gt;blablabla lipsum&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>hello hugo</title>
       <link>https://mymk.github.io/post/post-title/</link>
       <pubDate>Thu, 14 Jul 2016 22:44:37 +0200</pubDate>
