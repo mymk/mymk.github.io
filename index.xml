@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Thu, 14 Jul 2016 22:44:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2016 14:33:00 +0000</lastBuildDate>
     <atom:link href="https://mymk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Path svg editor</title>
+      <link>https://mymk.github.io/post/path/</link>
+      <pubDate>Fri, 15 Jul 2016 14:33:00 +0000</pubDate>
+      
+      <guid>https://mymk.github.io/post/path/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jxnblk.com/paths/&#34;&gt;Path&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
