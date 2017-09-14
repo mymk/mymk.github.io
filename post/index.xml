@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Mymk collective</title>
-    <link>https://mymk.github.io/post/</link>
-    <description>Recent content in Post on Mymk collective</description>
+    <title>Post-rss on Mymk collective</title>
+    <link>https://mymk.github.io/post/index.xml</link>
+    <description>Recent content in Post-rss on Mymk collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Fri, 15 Jul 2016 14:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 12:50:30 +0000</lastBuildDate>
     <atom:link href="https://mymk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test supa article</title>
+      <link>https://mymk.github.io/post/test-supa-article/</link>
+      <pubDate>Thu, 14 Sep 2017 12:50:30 +0000</pubDate>
+      
+      <guid>https://mymk.github.io/post/test-supa-article/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mymk.github.io/adress.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://mymk.github.io/post/test/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://mymk.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Path svg editor</title>
